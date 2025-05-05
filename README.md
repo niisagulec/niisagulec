@@ -1,4 +1,4 @@
-# Merhaba👋 Ben Nisa!
+# Merhaba!
 
 🎓 Pamukkale Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.  
 🌱 Şu anda Yapay Zeka ve Görüntü İşleme konularına odaklanıyorum.  
